@@ -10,3 +10,7 @@ The strategy works in a 3 major steps:
 Results: The long-short strategy worked well for the dataset between 2004 and 2008. Over 4 years, the cumulative return of the long-short strategy yielded a 2x return (100%) compared to a -60% for the losers stocks and -3% for the winners stocks. 
 
 However, It's important to understand that momentum trading involves a great amount of risk. There is no guarantee that buying pressures will continue to push the price higher. News development may impact investor market perception and lead to widespread selling. 
+
+<p align="center">
+  <img src="https://github.com/codebyvictor/Mean-Reversion-Strategy/blob/404f71eb60bbd69d949853c37e512c08cfb1da81/strategy-graph.png">
+</p>
