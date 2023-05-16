@@ -14,5 +14,5 @@ However, It's important to understand that momentum trading involves a great amo
 <br>
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/codebyvictor/Momentum-Trading-Strategy-on-Matlab/blob/d68ba2421dbd53aa8a2139763ead09243dd0e30a/strat-performance-dataset.png">
+  <img width="500" height="320" src="https://github.com/codebyvictor/Momentum-Trading-Strategy-on-Matlab/blob/d68ba2421dbd53aa8a2139763ead09243dd0e30a/strat-performance-dataset.png">
 </p>
