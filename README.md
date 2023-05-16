@@ -12,5 +12,5 @@ Results: The long-short strategy worked well for the dataset between 2004 and 20
 However, It's important to understand that momentum trading involves a great amount of risk. There is no guarantee that buying pressures will continue to push the price higher. News development may impact investor market perception and lead to widespread selling. 
 
 <p align="center">
-  <img src="https://github.com/codebyvictor/Mean-Reversion-Strategy/blob/404f71eb60bbd69d949853c37e512c08cfb1da81/strategy-graph.png">
+  <img src="https://github.com/codebyvictor/Momentum-Trading-Strategy-on-Matlab/blob/d68ba2421dbd53aa8a2139763ead09243dd0e30a/strat-performance-dataset.png">
 </p>
